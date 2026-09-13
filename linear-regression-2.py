@@ -1,3 +1,4 @@
+# prédiction du poids à partir de l'âge, de la taille et du sexe avec un modèle de régression linéaire
 import pandas as pd
 df = pd.read_csv('data/age_vs_taille_vs_poids_vs_sexe.csv')
 

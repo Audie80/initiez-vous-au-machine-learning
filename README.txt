@@ -11,8 +11,8 @@ Pour exécuter le code :
 ```
 cd ~/initiez-vous-au-machine-learning
 source .venv/bin/activate
-python entrainement-model.py
-python prediction-poids.py
+python linear-regression-1.py
+python linear-regression-2.py
+etc
 deactivate
-Quit()
 ```

@@ -1,3 +1,4 @@
+# entraînement du modèle de régression linéaire sur le dataset age_vs_taille_vs_poids_vs_sexe.csv
 import pandas as pd
 df = pd.read_csv('data/age_vs_taille_vs_poids_vs_sexe.csv')
 
